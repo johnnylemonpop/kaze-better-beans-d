@@ -53,26 +53,6 @@ Better Beans is a web app fusion for coffee aficionados to find local coffee sho
 
 ---
 
-## Contributers
-
-Daniel Prejs [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-prejs-7842611a9/)](https://www.linkedin.com/in/daniel-prejs-7842611a9/) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dprejs)](https://github.com/dprejs)
-
-Izzy Lee [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabell-lee)](https://www.linkedin.com/in/isabell-lee) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/isabell-lee)](https://github.com/isabell-lee)
-
-Ya Liu [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ya-liu1)](https://www.linkedin.com/in/ya-liu1) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ya-liu)](https://github.com/ya-liu)
-
-Jan Deocampo [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jandeo)](https://www.linkedin.com/in/jandeo) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Darumin)](https://github.com/Darumin)
-
-Andy Fang [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-fang)](https://www.linkedin.com/in/andy-fang) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/fang-andy)](https://github.com/fang-andy)
-
-Stormi Hashimoto [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stormikph)](https://www.linkedin.com/in/stormikph) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/stormikph)](https://github.com/stormikph)
-
-Jesus Gonzales [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzales-jesus)](https://www.linkedin.com/in/gonzales-jesus) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JGon26)](https://github.com/JGon26)
-
-Qinyu Zhu [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/qinyu-867152181/)](https://www.linkedin.com/in/qinyu-867152181/) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zhuzhuxia078)](https://github.com/zhuzhuxia078)
-
-Van Nguyen [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vannguyen-home/)](https://www.linkedin.com/in/vannguyen-home/) [![GitHub: GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vannguyen-vn)](https://github.com/vannguyen-vn)
-
 ## Installation
 
 npm is the package management system for this project.
